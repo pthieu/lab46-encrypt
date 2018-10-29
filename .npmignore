@@ -2,6 +2,6 @@ tests/
 *.test.js
 test
 .travis.yml
-
-.eslintrc*
-.prettier*
+.eslintrc.js
+.prettierrc.js
+.env

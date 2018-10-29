@@ -1,0 +1,28 @@
+{
+  "name": "lab46-encrypt",
+  "version": "0.0.1",
+  "description": "Simple encryption and decryption methods using AES-256 Encryption with random IV",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pthieu/lab46-encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "encryption",
+    "decrypt",
+    "aes",
+    "aes-256",
+    "random-iv"
+  ],
+  "author": "Phong Thieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pthieu/lab46-encrypt/issues"
+  },
+  "homepage": "https://github.com/pthieu/lab46-encrypt#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "lab46-encrypt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple encryption and decryption methods using AES-256 Encryption with random IV",
   "engines": {
     "node": ">=10.0.0"

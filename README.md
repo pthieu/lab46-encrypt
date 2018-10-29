@@ -9,7 +9,7 @@ Simple encryption and decryption library you can use like a black box.
 # Install
 
 ```
-npm install --save lab46-ecrypt;
+npm install --save lab46-encrypt;
 ```
 
 # Usage: Encrypt then Decrypt

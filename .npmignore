@@ -1,2 +1,7 @@
 tests/
 *.test.js
+test
+.travis.yml
+
+.eslintrc*
+.prettier*

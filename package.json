@@ -31,7 +31,8 @@
     "url": "https://github.com/pthieu/lab46-encrypt/issues"
   },
   "homepage": "https://github.com/pthieu/lab46-encrypt#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^8.11.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.25.4",

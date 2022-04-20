@@ -9,14 +9,15 @@ module.exports = {
     'eslint:recommended',
     'plugin:import/errors',
     'plugin:import/warnings',
-    'plugin:node/recommended',
+    'plugin:prettier/recommended',
     'plugin:promise/recommended',
   ],
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 2020,
     sourceType: 'module',
+    ecmaFeatures: {},
   },
-  plugins: ['import', 'node', 'prettier', 'promise'],
+  plugins: ['import', 'prettier', 'promise'],
   rules: {
     'import/order': [
       2,
@@ -37,7 +38,7 @@ module.exports = {
         arrowParens: 'always',
         bracketSpacing: true,
         jsxBracketSameLine: false,
-        parser: 'babylon',
+        parser: 'babel',
         printWidth: 80,
         semi: true,
         singleQuote: true,
